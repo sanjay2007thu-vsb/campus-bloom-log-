@@ -25,21 +25,3 @@ College Administration
 Recruiters (through shared portfolio links)
 
 ✓REPOSITORY STRUCTURE
-Campus-Bloom-Log/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── services/
-│   ├── lib/
-│   ├── assets/
-│   └── App.tsx
-│
-├── supabase/
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-├── README.md
-└── .env
